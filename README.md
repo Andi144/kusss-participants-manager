@@ -1,0 +1,1 @@
+Script to join all UE exercise and VL lecture participants (or, more generally, multiple KUSSS participants files) into a single file for fast look-up.
